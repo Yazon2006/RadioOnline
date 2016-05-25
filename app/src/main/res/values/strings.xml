@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio Online</string>
+    <string name="favourite">Favourite</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <string name="background">Background image</string>
+    <string name="radio_station">PARTY VIBE RADIO</string>
+</resources>

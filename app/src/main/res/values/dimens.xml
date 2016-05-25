@@ -1,0 +1,23 @@
+<resources>
+    <!-- offsets -->
+    <dimen name="offset_small1">2dp</dimen>
+    <dimen name="offset_small2">4dp</dimen>
+    <dimen name="offset_small3">8dp</dimen>
+    <dimen name="offset_normal1">16dp</dimen>
+    <dimen name="offset_normal2">24dp</dimen>
+    <dimen name="offset_big1">32dp</dimen>
+    <dimen name="offset_big2">64dp</dimen>
+    <dimen name="offset_big3">96dp</dimen>
+    <dimen name="offset_big4">128dp</dimen>
+
+    <!-- textSizes -->
+    <dimen name="textSize_small1">6sp</dimen>
+    <dimen name="textSize_small2">8sp</dimen>
+    <dimen name="textSize_small3">10sp</dimen>
+    <dimen name="textSize_small4">12sp</dimen>
+    <dimen name="textSize_small5">13sp</dimen>
+    <dimen name="textSize_normal1">15sp</dimen>
+    <dimen name="textSize_normal2">17sp</dimen>
+    <dimen name="textSize_large1">20sp</dimen>
+    <dimen name="textSize_large2">25sp</dimen>
+</resources>
